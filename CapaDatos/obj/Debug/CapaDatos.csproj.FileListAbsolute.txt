@@ -1,0 +1,12 @@
+C:\TGAS\TGAS\CapaDatos\bin\Debug\CapaDatos.dll
+C:\TGAS\TGAS\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\TGAS\TGAS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\TGAS\TGAS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\TGAS\TGAS\CapaDatos\obj\Debug\CapaDatos.dll
+C:\TGAS\TGAS\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\TGAS\CapaDatos\bin\Debug\CapaDatos.dll
+C:\TGAS\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\TGAS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\TGAS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\TGAS\CapaDatos\obj\Debug\CapaDatos.dll
+C:\TGAS\CapaDatos\obj\Debug\CapaDatos.pdb
