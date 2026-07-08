@@ -5,7 +5,7 @@
 **Course:** Programming II
 **Professor:** Jose Ramon Capellan
 **University:** Universidad Católica del Cibao (UCATECI)  
-**Student:** José Félix DLS  
+**Student:** José Felix DLS  
 **Student ID:** 2024-1135
 
 ![image alt](TGAS.png)
